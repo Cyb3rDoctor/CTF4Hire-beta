@@ -46,7 +46,7 @@ So, I opened that link and started reading to figure out what was that:
 
 ![image](https://user-images.githubusercontent.com/70543460/102479971-51ea0600-4068-11eb-8c15-b4134b4820aa.png)
 
-Then I checked the documentaion to find how the PDF files are rendered with cairo:
+Then I checked the documentation to find how the PDF files are rendered with cairo:
 
 ![image](https://user-images.githubusercontent.com/70543460/102480318-c624a980-4068-11eb-9366-85b59dc357a8.png)
 
