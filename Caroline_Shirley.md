@@ -14,7 +14,7 @@ I noticed something interesting in the challenge description, which might be an 
 
 ![image](https://user-images.githubusercontent.com/70543460/102476055-4f38e200-4063-11eb-99b6-ee61a31e1898.png)
 
-So, I searched for **"Caroline Shirley"** in LinkedIn, then I checked a lot of profiles with that name, and this one was very suspicous:
+So, I searched for **"Caroline Shirley"** in LinkedIn, then I checked a lot of profiles with that name, and this one was very suspicious:
 
 https://www.linkedin.com/in/caroline-shirley-a4a1931ba/
 
