@@ -62,7 +62,7 @@ Then I opened the output file (**output.ps**) with Adobe Illustrator:
 
 ![image](https://user-images.githubusercontent.com/70543460/102492080-caa58e00-4079-11eb-9721-e40fc17bc171.png)
 
-I noticed something intersting in the layers:
+I noticed something interesting in the layers:
 
 ![image](https://user-images.githubusercontent.com/70543460/102492246-15270a80-407a-11eb-9970-d54d2cd02547.png)
 
